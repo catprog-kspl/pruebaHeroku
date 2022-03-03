@@ -1,1 +1,1 @@
-web: gunicorn app:densidad
+web: gunicorn densidad:densidad
